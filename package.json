@@ -2,7 +2,7 @@
   "name": "project-codefusion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goldenrash-lab.github.io/project-codefusion/",
+  "homepage": "https://GoitStudentsWorks.github.io/bc-react-65-Goldenrash-lab/",
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
     "@reduxjs/toolkit": "^2.0.1",
