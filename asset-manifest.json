@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/bc-react-65-Goldenrash-lab/static/css/main.c41750aa.css",
+    "main.js": "/bc-react-65-Goldenrash-lab/static/js/main.0f2f1f78.js",
+    "static/media/deskRegister.jpg": "/bc-react-65-Goldenrash-lab/static/media/deskRegister.75d916277e1e1072b976.jpg",
+    "static/media/LoginFonIMac.jpg": "/bc-react-65-Goldenrash-lab/static/media/LoginFonIMac.3277a09b3c01d8359ca5.jpg",
+    "static/media/tabletRegister.jpg": "/bc-react-65-Goldenrash-lab/static/media/tabletRegister.89c95658c5cf7f253023.jpg",
+    "static/media/background.png": "/bc-react-65-Goldenrash-lab/static/media/background.227e429aeade448dab19.png",
+    "static/media/iMac.jpg": "/bc-react-65-Goldenrash-lab/static/media/iMac.c1445d787c6e6e90bc8c.jpg",
+    "static/media/LoginFonTablet.jpg": "/bc-react-65-Goldenrash-lab/static/media/LoginFonTablet.222bc47a7149903c5e4f.jpg",
+    "static/media/backgroundMob.png": "/bc-react-65-Goldenrash-lab/static/media/backgroundMob.52b769d905c245037ad6.png",
+    "static/media/Poppins-Regular.ttf": "/bc-react-65-Goldenrash-lab/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/bc-react-65-Goldenrash-lab/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Poppins-Bold.ttf": "/bc-react-65-Goldenrash-lab/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/mobile.jpg": "/bc-react-65-Goldenrash-lab/static/media/mobile.dd56fb99d56db77de57d.jpg",
+    "static/media/mobileRegister.jpg": "/bc-react-65-Goldenrash-lab/static/media/mobileRegister.dd56fb99d56db77de57d.jpg",
+    "static/media/coin.png": "/bc-react-65-Goldenrash-lab/static/media/coin.7c7e37f7921e3c475347.png",
+    "static/media/LoginGonMobile.jpg": "/bc-react-65-Goldenrash-lab/static/media/LoginGonMobile.2db26059b75996a0fe62.jpg",
+    "index.html": "/bc-react-65-Goldenrash-lab/index.html",
+    "static/media/switcherIncome.svg": "/bc-react-65-Goldenrash-lab/static/media/switcherIncome.4275b9e219e25ef193e6a9b49c4c9297.svg",
+    "static/media/switcherExpense.svg": "/bc-react-65-Goldenrash-lab/static/media/switcherExpense.1ec027229a03ae7a765adcacde91e841.svg",
+    "static/media/calendar.svg": "/bc-react-65-Goldenrash-lab/static/media/calendar.ea0b73981b75b4e48621d069702fecfa.svg",
+    "static/media/close.svg": "/bc-react-65-Goldenrash-lab/static/media/close.1c3795d4a77580438e0ee12c41c82e6b.svg",
+    "static/media/slash.svg": "/bc-react-65-Goldenrash-lab/static/media/slash.0de4a54764962cd9ea4f00c124f2d44f.svg",
+    "main.c41750aa.css.map": "/bc-react-65-Goldenrash-lab/static/css/main.c41750aa.css.map",
+    "main.0f2f1f78.js.map": "/bc-react-65-Goldenrash-lab/static/js/main.0f2f1f78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c41750aa.css",
+    "static/js/main.0f2f1f78.js"
+  ]
+}
