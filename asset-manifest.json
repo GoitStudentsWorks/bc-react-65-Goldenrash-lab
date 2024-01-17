@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bc-react-65-Goldenrash-lab/static/css/main.c41750aa.css",
-    "main.js": "/bc-react-65-Goldenrash-lab/static/js/main.0f2f1f78.js",
+    "main.js": "/bc-react-65-Goldenrash-lab/static/js/main.5526468c.js",
     "static/media/deskRegister.jpg": "/bc-react-65-Goldenrash-lab/static/media/deskRegister.75d916277e1e1072b976.jpg",
     "static/media/LoginFonIMac.jpg": "/bc-react-65-Goldenrash-lab/static/media/LoginFonIMac.3277a09b3c01d8359ca5.jpg",
     "static/media/tabletRegister.jpg": "/bc-react-65-Goldenrash-lab/static/media/tabletRegister.89c95658c5cf7f253023.jpg",
@@ -23,10 +23,10 @@
     "static/media/close.svg": "/bc-react-65-Goldenrash-lab/static/media/close.1c3795d4a77580438e0ee12c41c82e6b.svg",
     "static/media/slash.svg": "/bc-react-65-Goldenrash-lab/static/media/slash.0de4a54764962cd9ea4f00c124f2d44f.svg",
     "main.c41750aa.css.map": "/bc-react-65-Goldenrash-lab/static/css/main.c41750aa.css.map",
-    "main.0f2f1f78.js.map": "/bc-react-65-Goldenrash-lab/static/js/main.0f2f1f78.js.map"
+    "main.5526468c.js.map": "/bc-react-65-Goldenrash-lab/static/js/main.5526468c.js.map"
   },
   "entrypoints": [
     "static/css/main.c41750aa.css",
-    "static/js/main.0f2f1f78.js"
+    "static/js/main.5526468c.js"
   ]
 }
